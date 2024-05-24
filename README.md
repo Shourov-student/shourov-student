@@ -5,12 +5,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... webdevelopment
-- 🌱 I’m currently learning ... webdevelopment
-- 👯 I’m looking to collaborate on ... webdevelopment
-- 🤔 I’m looking for help with ... webdevelopment
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Author -(Shourov Karmaker)
